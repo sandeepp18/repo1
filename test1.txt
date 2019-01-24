@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 2E6F-50CD
-
- Directory of C:\Users\SanDiv\Documents\Training\GIT\Project 1
-
-01/24/2019  03:12 PM    <DIR>          .
-01/24/2019  03:12 PM    <DIR>          ..
-01/24/2019  03:12 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  378,849,984,512 bytes free
+hello there 
